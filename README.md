@@ -4,13 +4,13 @@ This is a portfolio page project where you will showcase your skills and talents
 
 1. [Description](#desc)
 2. [Web Address](#web-address)
-3. [Usage tips](#usage)
+3. [Usage Tips](#usage)
 4. [Acceptance Criteria](#acceptancecriteria)
 5. [Work Done](#workdone)
 6. [Contact Me](#contactme)
 
 
-## 1. Description
+## <a name="desc"></a>1. Description
 
 This repository contains the codebase for the portfolio page, which is being developed as part of a challenge. The goal is to create a responsive and visually appealing portfolio that showcases your skills and projects. The core skills learned in the course, including flexbox, media queries, and CSS variables, will be applied to optimize the layout and adapt it to different screen sizes.
 
@@ -19,12 +19,12 @@ Landing Page:
 ![Top-Page-Area](./images/Landing%20Page.png?raw=true "Top-Page-Area")
 
 
-## 2. How to Get There
+## <a name="web-address"></a>2. How to Get There
 
 The deployed version of the Portfolio website can be accessed through the following link: [Sanif Mujawar's Portfolio](https://sanifmujawar.github.io/portfolio/).
 
 
-## 3. Usage Tips
+## <a name="usage"></a>3. Usage Tips
 
 Use the top right navigation panel to visit the different sections of the web page.
 
@@ -37,7 +37,7 @@ Explore the rest of the page by scrolling up or down.
 ![portfolio demo](./images/scroll.gif.gif)
 
 
-## 4. Acceptance Criteria
+## <a name="acceptancecriteria"></a>4. Acceptance Criteria
 
 To successfully complete the challenge, the following acceptance criteria should be met:
 
@@ -48,7 +48,7 @@ To successfully complete the challenge, the following acceptance criteria should
 * The layout should be responsive and adapt to different screen sizes and devices.
 
 
-## 5. Work Completed
+## <a name="workdone"></a>5. Work Completed
 
 During the development process, the following tasks were completed:
 
@@ -58,7 +58,7 @@ During the development process, the following tasks were completed:
 * Designed and styled the portfolio with custom CSS to ensure a visually appealing and professional appearance.
 
 
-## Contact Me
+## <a name="contactme"></a>Contact Me
 
 If you have any questions or feedback, feel free to contact me on GitHub:
 
