@@ -1,75 +1,71 @@
-# Unit 2 Challenge: Portfolio
+# Portfolio Challenge
 
-## Your Task
+This is a portfolio page project where you will showcase your skills and talents as a web developer. It will serve as a tool to present your work to potential employers and demonstrate your abilities. By creating a portfolio with deployed web applications, you increase your chances of success in your career search.
 
-This week, you'll build a portfolio page, which you can add to as the course progresses. 
+1. [Description](#desc)
+2. [Web Address](#web-address)
+3. [Usage tips](#usage)
+4. [Acceptance Criteria](#acceptancecriteria)
+5. [Work Done](#workdone)
+6. [Contact Me](#contactme)
 
-A portfolio of work can showcase your skills and talents to employers looking to fill a part-time or full-time position. An effective portfolio highlights your strongest work as well as the thought processes behind it. Students who have portfolios with deployed web applications (meaning they are live on the web) are typically very successful in their career search after the boot camp. This last point can’t be stressed enough: having several deployed projects is a minimum requirement to receive an initial interview at many companies. 
- 
-With these points in mind, in this challenge you’ll set yourself up for future success by applying the core skills you've recently learned: flexbox, media queries, and CSS variables. You'll get to practice your new skills while creating something that you will use during your job search. It’s a win-win that you'll likely be grateful for in the future!
 
-**Note:** If you don't have enough web applications to showcase at this point, use placeholder images and names. You can change them to real applications as you create them later in the course.
+## 1. Description
 
-## Acceptance Criteria
+This repository contains the codebase for the portfolio page, which is being developed as part of a challenge. The goal is to create a responsive and visually appealing portfolio that showcases your skills and projects. The core skills learned in the course, including flexbox, media queries, and CSS variables, will be applied to optimize the layout and adapt it to different screen sizes.
 
-Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
+Landing Page:
 
-* When the page is loaded the page presents your name, a recent photo or avatar, and links to sections about you, your work, and how to contact you
-* When one of the links in the navigation is clicked then the UI scrolls to the corresponding section
-* When viewing the section about your work then the section contains titled images of your applications
-* When presented with the your first application then that application's image should be larger in size than the others
-* When images of the applications are clicked then the user is taken to that deployed application
-* When the page is resized or viewed on various screens and devices then the layout is responsive and adapts to my viewport
+![Top-Page-Area](./images/Landing%20Page.png?raw=true "Top-Page-Area")
 
-## Mock-Up
 
-The following animation shows the web application's appearance and functionality:
+## 2. How to Get There
 
-![portfolio demo](./images/01-css-challenge-demo.gif)
+The deployed version of the Portfolio website can be accessed through the following link: [Sanif Mujawar's Portfolio](https://sanifmujawar.github.io/portfolio/).
 
-Feel free to use your own colors and images.
 
-## Grading Requirements
+## 3. Usage Tips
 
-This challenge is graded based on the following criteria: 
+Use the top right navigation panel to visit the different sections of the web page.
 
-### Technical Acceptance Criteria: 40%
+Navigation Screen:
 
-* Satisfies all of the above acceptance criteria.
+![nav-menu](./images/Navigation.png?raw=true "Navigational Menu")
 
-### Deployment: 32%
+Explore the rest of the page by scrolling up or down.
 
-* Application deployed at live URL.
+![portfolio demo](./images/scroll.gif.gif)
 
-* Application loads with no errors.
 
-* Application GitHub URL submitted.
+## 4. Acceptance Criteria
 
-* GitHub repository contains application code.
+To successfully complete the challenge, the following acceptance criteria should be met:
 
-### Application Quality: 15%
+* The portfolio page should present your name, a recent photo or avatar, and links to sections about you, your work, and how to contact you.
+* Clicking on the navigation links should smoothly scroll the page to the corresponding section.
+* The "Projects" section should display titled images of your applications, with the first application's image being larger in size than the others.
+* Clicking on the application images should redirect the user to the deployed applications.
+* The layout should be responsive and adapt to different screen sizes and devices.
 
-* Application resembles the mock-up functionality provided in the challenge instructions.
 
-### Repository Quality: 13%
+## 5. Work Completed
 
-* Repository has a unique name.
+During the development process, the following tasks were completed:
 
-* Repository follows best practices for file structure and naming conventions.
+* Created a responsive portfolio page layout using flexbox, media queries, and CSS variables.
+* Added the necessary HTML structure and content, including the name, photo, navigation links, sections, and contact information.
+* Implemented smooth scrolling functionality using JavaScript for a better user experience.
+* Designed and styled the portfolio with custom CSS to ensure a visually appealing and professional appearance.
 
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
 
-* Repository contains multiple descriptive commit messages.
+## Contact Me
 
-* Repository contains quality readme with description, screenshot, link to deployed application.
+If you have any questions or feedback, feel free to contact me on GitHub:
 
-## Review
+GitHub: [Sanif Mujawar](https://github.com/sanifmujawar)
 
-You are required to submit BOTH of the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
+Please note that this project is confidential and proprietary. All rights reserved.
 
 ---
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+🏆 The sections listed above provide the necessary information for a good README. However, depending on your project, you may want to consider adding additional sections like badges, features, contributing guidelines, or tests.
